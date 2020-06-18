@@ -1,0 +1,11 @@
+#container {
+    border: 2px solid #232323;
+    width: 360px;
+    margin: 0 auto;
+}
+
+.completed{
+    color: rgb(128,128,128);
+    text-decoration: line-through;
+
+}
